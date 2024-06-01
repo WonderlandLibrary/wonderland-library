@@ -12,6 +12,8 @@
 - thatonecoder
 - HCU
   - Now a disbanded group
+- Liticane
+  - Moron
 
 #### Links
 - [Client JARs](https://github.com/WonderlandLibrary/client-jars)
