@@ -14,6 +14,8 @@
   - Now a disbanded group
 - Liticane
   - Moron
+- Nyghtfull
+  - Skiddah
 
 #### Links
 - [Client JARs](https://github.com/WonderlandLibrary/client-jars)
