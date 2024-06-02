@@ -25,7 +25,7 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - Nyghtfull
 - TrilliumHQ
 - Zajchu
-- minecrafthax.org
+- MinecraftHax
 - GitHub
   - Individiuals also listed
 - HCU
