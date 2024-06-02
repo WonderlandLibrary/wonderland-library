@@ -34,7 +34,7 @@ def from_list(file_contents):
         out += f"  - {entry_map.get(second_entry)}\n"
 
     # Removing the last new line
-    out = out[:len(out)-2]
+    out = out[:len(out)-1]
 
     return out
 
@@ -70,7 +70,7 @@ for line in links_list.split('\n'):
     links_out += f"- [{split_link[0]}]({split_link[1]})\n"
 
 # Removing the last new line
-links_out = links_out[:len(links_out)-2]
+links_out = links_out[:len(links_out)-1]
 
 # Writing links to output
 output = output.replace("links-here", links_out)

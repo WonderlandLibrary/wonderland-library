@@ -11,7 +11,7 @@
 - kellohyllyy
 - parkopes
 - stormingmoon
-- thatonecode
+- thatonecoder
 - If you believe we forgot any, feel free to open a ticket on our Discord server.
 
 #### Sources
@@ -28,12 +28,12 @@
 - HCU
   - Now a disbanded group
 - MasterOf13FPS
-  - Individiuals also liste
+  - Individiuals also listed
 - If you believe we forgot any, feel free to open a ticket on our Discord server.
 
 #### Links
 - [Client JARs](https://github.com/WonderlandLibrary/client-jars)
-- [Client Sources](https://github.com/WonderlandLibrary/client-sources
+- [Client Sources](https://github.com/WonderlandLibrary/client-sources)
 
 #### Contributing
 - Put your name (preferably your GitHub username) in the ``contributors`` file if you haven't already done so in a previous commit.
