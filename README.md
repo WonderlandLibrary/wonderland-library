@@ -10,19 +10,31 @@
 - stormingmoon
 - thatonecoder
 
+- If you believe we forgot any, feel free to open a ticket on our Discord server.
+
 #### Sources
+- DietrichPaul
 - DistastefulBannock
 - Liticane
+- Napoleon-x
 - Nyghtfull
 - TrilliumHQ
+- Zajchu
+- minecrafthax.org
+- GitHub
+  - Individiuals also listed
 - HCU
   - Now a disbanded group
+- MasterOf13FPS
+  - Individiuals also listed
+
+- If you believe we forgot any, feel free to open a ticket on our Discord server.
 
 #### Links
 - [Client JARs](https://github.com/WonderlandLibrary/client-jars)
 - [Client Sources](https://github.com/WonderlandLibrary/client-sources)
 
 #### Contributing
-- Put your name (preferably your github username) in the ``contributors.list`` file if you haven't already done so in a previous commit.
+- Put your name (preferably your GitHub username) in the ``contributors`` file if you haven't already done so in a previous commit.
 - Run the ``generate-readme.py`` script.
 - Create a pull request and wait for approval.
