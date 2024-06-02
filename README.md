@@ -2,7 +2,6 @@
  Our aim is to preserve Minecraft modifications in a way that makes it easy to download from us or to contribute yourself. This includes game clients, game servers, server plugins, etc.
 
 #### Contributors
-- TrilliumHQ
 - Xoraii
 - allah.himself
 - idk1
@@ -10,12 +9,17 @@
 - parkopes
 - stormingmoon
 - thatonecoder
-- HCU
-  - Now a disbanded group
 - Liticane
   - Moron
 - Nyghtfull
   - Skiddah
+
+#### Sources
+- Liticane
+- Nyghtfull
+- TrilliumHQ
+- HCU
+  - Now a disbanded group
 
 #### Links
 - [Client JARs](https://github.com/WonderlandLibrary/client-jars)
