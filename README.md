@@ -9,10 +9,6 @@
 - parkopes
 - stormingmoon
 - thatonecoder
-- Liticane
-  - Moron
-- Nyghtfull
-  - Skiddah
 
 #### Sources
 - Liticane
