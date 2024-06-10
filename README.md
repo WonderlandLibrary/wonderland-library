@@ -14,6 +14,7 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - parkopes
 - stormingmoon
 - thatonecoder
+- innominate
 
 ### Sources
 If you believe we forgot any, feel free to open a ticket on our Discord server.
