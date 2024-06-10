@@ -15,6 +15,7 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - stormingmoon
 - thatonecoder
 - innominate
+- AllahLeaks
 
 ### Sources
 If you believe we forgot any, feel free to open a ticket on our Discord server.
