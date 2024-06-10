@@ -7,15 +7,15 @@
 ### Contributors
 If you believe we forgot any, feel free to open a ticket on our Discord server.
 
+- AllahLeaks
 - Xoraii
 - allah.himself
 - idk1
+- innominate
 - kellohyllyy
 - parkopes
 - stormingmoon
 - thatonecoder
-- innominate
-- AllahLeaks
 
 ### Sources
 If you believe we forgot any, feel free to open a ticket on our Discord server.
@@ -23,11 +23,11 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - DietrichPaul
 - DistastefulBannock
 - Liticane
+- MinecraftHax
 - Napoleon-x
 - Nyghtfull
 - TrilliumHQ
 - Zajchu
-- MinecraftHax
 - GitHub
   - Individiuals also listed
 - HCU
@@ -38,6 +38,8 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 ### Links
 - [Client JARs](https://github.com/WonderlandLibrary/client-jars)
 - [Client Sources](https://github.com/WonderlandLibrary/client-sources)
+- [Plugin JARs](https://github.com/WonderlandLibrary/plugin-jars)
+- [Plugin Sources](https://github.com/WonderlandLibrary/plugin-sources)
 
 ### Contributing
 - Put your name (preferably your GitHub username) in the ``contributors`` file if you haven't already done so in a previous commit.
