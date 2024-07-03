@@ -29,6 +29,7 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - MinecraftHax
 - Napoleon-x
 - Nyghtfull
+- Stephen
 - TrilliumHQ
 - Zajchu
 - GitHub
