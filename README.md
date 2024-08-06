@@ -32,6 +32,7 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - Stephen
 - TrilliumHQ
 - Zajchu
+- dataplugs
 - GitHub
   - Individiuals also listed
 - HCU
