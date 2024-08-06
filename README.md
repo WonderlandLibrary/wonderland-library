@@ -10,11 +10,9 @@
 ### Contributors
 If you believe we forgot any, feel free to open a ticket on our Discord server.
 
-- AllahLeaks
 - Xoraii
 - allah.himself
 - idk1
-- innominate
 - kellohyllyy
 - parkopes
 - stormingmoon
@@ -23,8 +21,10 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 ### Sources
 If you believe we forgot any, feel free to open a ticket on our Discord server.
 
+- AllahLeaks
 - DietrichPaul
 - DistastefulBannock
+- FLauncher
 - Liticane
 - MinecraftHax
 - Napoleon-x
@@ -33,6 +33,7 @@ If you believe we forgot any, feel free to open a ticket on our Discord server.
 - TrilliumHQ
 - Zajchu
 - dataplugs
+- innominate
 - GitHub
   - Individiuals also listed
 - HCU
